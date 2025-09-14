@@ -1,0 +1,10 @@
+{
+  "chain_length": 3,
+  "min_distance": 2,
+  "target_pairs": 5000,
+  "num_seeds": 50,
+  "model_name": "roberta-base",
+  "num_epochs": 3,
+  "batch_size": 16,
+  "learning_rate": 2e-05
+}

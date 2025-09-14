@@ -1,0 +1,14 @@
+MVP IMPLICATION CHAINS - CONSOLIDATED RESULTS SUMMARY
+============================================================
+Generated on: 2025-09-14 13:28:17.969302
+
+KEY METRICS
+---------------
+No metrics available. Please run the full pipeline.
+
+FILES GENERATED
+--------------------
+pipeline_results.txt           |      176 bytes | 2025-09-14 13:25:09.120703
+results_summary.txt            |        0 bytes | 2025-09-14 13:28:17.969225
+
+Summary created: 2025-09-14 13:28:17.969597
